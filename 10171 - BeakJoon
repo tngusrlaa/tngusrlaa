@@ -9,7 +9,8 @@
 
 int main()
 {
-    printf("\\    /\\");
+    //If you want to enter '," or \, put in "\" befor it.
+    printf("\\    /\\"); 
     printf("\n");
     printf(" )  ( ')");
     printf("\n");
