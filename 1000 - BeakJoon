@@ -1,0 +1,18 @@
+/******************************************************************************/
+/* Enter the two integers A and B, and then write a program that outputs A+B. */
+/* Enter : A and B are given in the first line. (0 < A, B < 10)               */
+/* Output : Output A+B on the first line.                                     */
+/******************************************************************************/
+
+#include <stdio.h>
+
+int main()
+{
+	int a = 0, b = 0;       //Declaration of variables & Initialize variables.
+
+	scanf("%d %d", &a, &b); //
+
+	printf("%d", a + b);
+	
+	return 0;
+}
