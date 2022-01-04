@@ -8,11 +8,11 @@
 
 int main()
 {
-	int a = 0, b = 0;       //Declaration of variables & Initialize variables.
+	int A = 0, B = 0;       //Declaration of variables & Initialize variables.
 
-	scanf("%d %d", &a, &b); //
+	scanf("%d %d", &A, &B);
 
-	printf("%d", a + b);
+	printf("%d", A + B);
 	
 	return 0;
 }
