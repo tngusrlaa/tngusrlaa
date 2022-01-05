@@ -1,5 +1,5 @@
 /******************************************************************************/
-/* Enter the two integers A and B, and then write a program that outputs A+B. */
+/* Enter the two integers A and B, and then write a program that outputs A-B. */
 /* Enter : A and B are given in the first line. (0 < A, B < 10)               */
 /* Output : Output A-B on the first line.                                     */
 /******************************************************************************/
