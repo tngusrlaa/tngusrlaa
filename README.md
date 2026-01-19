@@ -33,12 +33,7 @@ This document provides detailed guidance on the prerequisites, installation, and
 
 ## Running the Program
 
-### 1. Using the Executable File (`.exe`)
-
-1. **Double-click the `.exe` file.**
-2. Follow the on-screen prompts to use the program.
-
-### 2. Running from Source Code
+### 1. Running from Source Code
 
 1. **Open a terminal or command prompt.**
 2. Navigate to the directory where the source code resides.
