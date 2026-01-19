@@ -39,7 +39,7 @@ This document provides detailed guidance on the prerequisites, installation, and
 2. Navigate to the directory where the source code resides.
 3. Run the program with the following command:
    ```bash
-   python createtraining.py
+   python #1-6 AIorNot.py
    ```
 
 ## Additional Notes
