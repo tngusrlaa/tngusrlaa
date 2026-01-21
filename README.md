@@ -79,12 +79,9 @@ Below is the hierarchical structure of the main code and its related components:
 ## Additional Information & Resources
 
 Additional information and resources related to this project and dataset are available at the following links:
-
-Project Documentation (Notion)
-Comprehensive documentation covering the dataset design, experimental setup, and analysis details.
 https://rural-crib-445.notion.site/Generative-AI-Service-Identification-via-Image-Metastructure-Analysis-2efa81c0160a80b0a261d35cfc786286?source=copy_link
 
-- Detection Code : Automated code for detecting generative AI images by extracting file-level metadata and encoding-related structural features.
+- Detection Code (GitHub) : Automated code for detecting generative AI images by extracting file-level metadata and encoding-related structural features.
 
 - Dataset (Kaggle) : Access to the complete image dataset used in the experiments, hosted on Kaggle.
 
